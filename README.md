@@ -1,7 +1,5 @@
 # Step 17 — Examine Moderators
 [← Previous Step: Examine Heterogeneity](https://github.com/adnan-mayof/Examine-Heterogeneity/blob/main/README.md)
-[← Previous Step: Conduct the Meta-Analysis](https://github.com/adnan-mayof/Conduct-the-Meta-Analysis/blob/main/README.md)
-
 
 ## Maya’s Evidence Synthesis Journey
 
